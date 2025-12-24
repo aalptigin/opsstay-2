@@ -5,10 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint",
-    "pages:build": "next build && next-on-pages",
-    "pages:dev": "wrangler pages dev .vercel/output/static"
+    "lint": "next lint"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",
@@ -30,7 +27,6 @@
     "eslint": "^9",
     "eslint-config-next": "15.4.6",
     "tailwindcss": "^4",
-    "typescript": "^5",
-    "wrangler": "^4.56.0"
+    "typescript": "^5"
   }
 }
