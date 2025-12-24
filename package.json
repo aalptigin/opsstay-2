@@ -22,7 +22,6 @@
     "zod": "^4.2.1"
   },
   "devDependencies": {
-    "@cloudflare/next-on-pages": "^1.14.7",
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20.19.27",
